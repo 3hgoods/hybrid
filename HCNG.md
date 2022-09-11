@@ -2,9 +2,19 @@
 
 
 http://www.igasnet.com/news/articleView.html?idxno=11671
+https://www.youtube.com/watch?v=-xU6VM08XGw
+https://www.youtube.com/watch?v=ZNcxoGNPq9A
+https://www.youtube.com/watch?v=UBCsTNcTPfw
+http://koreascience.kr/article/JAKO201013351017869.pdf
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002139450
+
 
 
 HCNG는 수소(H2)와 압축천연가스(CNG)가 혼합된 연료로 기존 CNG보다 친환경적이고 연소성능이 뛰어나 차세대 연료로 주목받고 있다.
+
+
+
+
 
 https://www.gereports.kr/hurray-for-hydrogen-this-new-ohio-power-plant-successfully-used-hydrogen-to-generate/
 
