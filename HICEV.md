@@ -27,3 +27,16 @@ Vehicle
 - 수소가 휘발유보다 가격이 저렴해야 함.
 - 연비가 더 높아야 함.
 - 연소되는 시간이 수소가 더 짧아 
+
+
+## 신규 소식
+
+```
+http://m.dailycar.co.kr/content/news.html?type=view&autoId=43083
+
+
+
+
+```
+
+
