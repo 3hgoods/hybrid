@@ -34,6 +34,7 @@ Vehicle
 ```
 http://m.dailycar.co.kr/content/news.html?type=view&autoId=43083
 https://www.womaneconomy.co.kr/news/articleView.html?idxno=210494
+https://www.greened.kr/news/articleView.html?idxno=294886
 
 
 
