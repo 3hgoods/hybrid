@@ -74,6 +74,9 @@ efi 기능 추가
 https://rcvengines.com/efi-engine-control-system/
 
 
+이중분사 기능 추가
+https://www.youtube.com/watch?v=MIDItBqX3SQ
+
 
 
 ```
