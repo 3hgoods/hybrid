@@ -4,6 +4,7 @@
 ```
 
 Rotary Valve Engine  원리 발명
+기원 https://www.museumofamericanspeed.com/1911reynoldsrotary.html
 
 
 
