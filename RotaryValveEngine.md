@@ -7,11 +7,13 @@ Rotary Valve Engine  원리 발명
 기원 
 https://www.museumofamericanspeed.com/1911reynoldsrotary.html
 
-과거 시도 
+과거 시도  4-stroke rotary valve engine
 https://www.rcuniverse.com/forum/glow-engines-114/11631443-patrova-rotary-valve-model-engine.html?styleid=7
 https://www.pattakon.com/pattakonPatRoVa.htm
 https://antiquemodelenginesrunning.blogspot.com/2012/05/rcv-58-cd-rotary-valve-glow-engine.html
 https://www.ebay.com/itm/273005905905
+http://www.qpqp.co.uk/stroke/57738880
+
 
 
 https://hackaday.com/2022/02/21/rotary-valve-engine-gets-a-second-chance-smokes-the-competition/
@@ -44,8 +46,9 @@ https://www.youtube.com/watch?v=vsy9KDCFPyw
 
 이어받음
 https://rcvengines.com/
-
 https://www.unmannedsystemstechnology.com/company/rcv-engines/
+https://pdfs.semanticscholar.org/dc8d/d88169fbdb9399a7dbe340faf1a779a77d2c.pdf
+
 
 http://www.pattakon.com/pattakonPatRoVa.htm
 https://barnardmicrosystems.com/UAV/engines/rotating_cylinder.html
