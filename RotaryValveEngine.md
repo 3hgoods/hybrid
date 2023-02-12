@@ -10,6 +10,9 @@ https://www.museumofamericanspeed.com/1911reynoldsrotary.html
 과거 시도 
 https://www.rcuniverse.com/forum/glow-engines-114/11631443-patrova-rotary-valve-model-engine.html?styleid=7
 https://www.pattakon.com/pattakonPatRoVa.htm
+https://antiquemodelenginesrunning.blogspot.com/2012/05/rcv-58-cd-rotary-valve-glow-engine.html
+https://www.ebay.com/itm/273005905905
+
 
 https://hackaday.com/2022/02/21/rotary-valve-engine-gets-a-second-chance-smokes-the-competition/
 https://www.facebook.com/111025390441016/posts/era-4-pcr-rotary-valve-engine-for-sale-as-per-photos-runner-but-recommend-freshe/165393568337531/
@@ -22,6 +25,10 @@ https://forums.autosport.com/topic/192164-rotary-valve/
 
 2행정 원리
 - http://vespamaintenance.com/engine/primer/index.html
+
+
+
+https://www.youtube.com/watch?v=Qa4Y9VqQVoQ
 
 
 
